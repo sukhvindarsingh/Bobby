@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1618723284,,"wq"
+|2,0,1618737602,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,24 +27,58 @@
 # global variables:
 
 # File marks:
-'0  1  49  ~/test-node/server.js
-|4,48,1,49,1618723284,"~/test-node/server.js"
-'1  1  0  ~/test-node/server.js
-|4,49,1,0,1618723250,"~/test-node/server.js"
-'2  1  0  ~/test-node/server.js
-|4,50,1,0,1618723190,"~/test-node/server.js"
+'0  1  13  ~/.git/COMMIT_EDITMSG
+|4,48,1,13,1618737602,"~/.git/COMMIT_EDITMSG"
+'1  1  12  ~/.git/COMMIT_EDITMSG
+|4,49,1,12,1618737480,"~/.git/COMMIT_EDITMSG"
+'2  1  49  ~/test-node/server.js
+|4,50,1,49,1618723284,"~/test-node/server.js"
 '3  1  0  ~/test-node/server.js
-|4,51,1,0,1618723190,"~/test-node/server.js"
+|4,51,1,0,1618723250,"~/test-node/server.js"
+'4  1  0  ~/test-node/server.js
+|4,52,1,0,1618723190,"~/test-node/server.js"
+'5  1  0  ~/test-node/server.js
+|4,53,1,0,1618723190,"~/test-node/server.js"
 
 # Jumplist (newest first):
+-'  1  13  ~/.git/COMMIT_EDITMSG
+|4,39,1,13,1618737602,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/.git/COMMIT_EDITMSG
+|4,39,1,12,1618737480,"~/.git/COMMIT_EDITMSG"
+-'  1  49  ~/test-node/server.js
+|4,39,1,49,1618723284,"~/test-node/server.js"
+-'  1  49  ~/test-node/server.js
+|4,39,1,49,1618723284,"~/test-node/server.js"
+-'  1  49  ~/test-node/server.js
+|4,39,1,49,1618723284,"~/test-node/server.js"
 -'  1  49  ~/test-node/server.js
 |4,39,1,49,1618723284,"~/test-node/server.js"
 -'  1  0  ~/test-node/server.js
 |4,39,1,0,1618723250,"~/test-node/server.js"
 -'  1  0  ~/test-node/server.js
+|4,39,1,0,1618723250,"~/test-node/server.js"
+-'  1  0  ~/test-node/server.js
+|4,39,1,0,1618723250,"~/test-node/server.js"
+-'  1  0  ~/test-node/server.js
+|4,39,1,0,1618723250,"~/test-node/server.js"
+-'  1  0  ~/test-node/server.js
+|4,39,1,0,1618723190,"~/test-node/server.js"
+-'  1  0  ~/test-node/server.js
+|4,39,1,0,1618723190,"~/test-node/server.js"
+-'  1  0  ~/test-node/server.js
+|4,39,1,0,1618723190,"~/test-node/server.js"
+-'  1  0  ~/test-node/server.js
 |4,39,1,0,1618723190,"~/test-node/server.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1618737599	0
+	"	1	13
+	^	1	14
+	.	2	0
+	+	1	14
+	+	2	0
 
 > ~/test-node/server.js
 	*	1618723275	0
